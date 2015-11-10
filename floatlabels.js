@@ -62,7 +62,7 @@
                 this.$label.css({
                     'position'                      : 'absolute',
                     'top'                           : settings.labelStartTop,
-                    'left'                          : '8px', //thisElement.css('padding-left'),
+                    'left'                          : '16px', //thisElement.css('padding-left'),
                     'display'                       : 'none',
                     '-moz-opacity'                  : '0',
                     '-khtml-opacity'                : '0',
